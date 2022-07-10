@@ -19,6 +19,63 @@
 
       "veg": "veg",
       "category": "Continental Soups"
+    },
+    {
+      "id": "m3",
+      "name": "Cream of French Onion Soup",
+      "price": 185,
+      "image": "",
+      "veg": "veg",
+      "category": "Continental Soups"
+    },
+    {
+      "id": "m4",
+      "name": "Cream of Broccoli & Asparagus Soup",
+      "price": 215,
+      "veg": "veg",
+      "category": "Continental Soups"
+    },
+    {
+      "id": "m5",
+      "name": "Tom Yum Soup",
+      "price": 190,
+      "veg": "veg",
+      "category": "Thai Soups"
+    },
+    {
+      "id": "m6",
+      "name": "Thukpa Soup",
+      "price": 210,
+      "veg": "veg",
+      "category": "Thai Soups"
+    },
+    {
+      "id": "m7",
+      "name": "Veg. Clear Soup",
+      "price": 135,
+      "veg": "veg",
+      "category": "Chinese Soups"
+    },
+    {
+      "id": "m8",
+      "name": "Veg. Noodles Soup",
+      "price": 135,
+      "veg": "veg",
+      "category": "Chinese Soups"
+    },
+    {
+      "id": "m9",
+      "name": "Cream of Spinach",
+      "price": 160,
+      "veg": "veg",
+      "category": "Chinese Soups"
+    },
+    {
+      "id": "m10",
+      "name": "Veg. Wanton Soup",
+      "price": 185,
+      "veg": "veg",
+      "category": "Chinese Soups"
     }
   ]
 }
